@@ -1,0 +1,4 @@
+https://www.cs.toronto.edu/~mashiyat/csc309/Lectures/javascript.pdf
+
+https://github.com/GitbookIO/javascript
+
