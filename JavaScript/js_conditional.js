@@ -14,7 +14,7 @@ else{
 
 // Ternary Operator
 
-let marks = 40;
+let marks = 41;
 let result = (marks>40) ? "pass" : "Fail";
 console.log(result);
 

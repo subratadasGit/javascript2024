@@ -7,7 +7,7 @@
 
 let x = 30 ;
 
-for(let i = 1 ; i<=x ; i=i*2 ){
+for(let i = 1 ; i<=x ; i++){
     console.log(i);
 }
 
