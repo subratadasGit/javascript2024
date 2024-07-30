@@ -3,3 +3,5 @@ https://www.cs.toronto.edu/~mashiyat/csc309/Lectures/javascript.pdf
 https://github.com/GitbookIO/javascript
 
 http://edu-9.de/uploads/books/javascript-handbook.pdf
+
+https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
