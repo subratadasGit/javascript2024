@@ -1,0 +1,9 @@
+dl=0
+num = 371
+while(num>0){
+num = num / 10 ; 371=>37  , 37=> 3 , 0
+dl=dl+1; 3
+}
+
+
+371  let a = 1^dl+7^dl+3^dl
