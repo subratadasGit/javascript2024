@@ -42,4 +42,17 @@ let value1= num.findIndex(checkname)
     return num1 > 30  ; // return the first index value if function satisfied by condition
  }
  console.log(value1);
- 
+
+ const fruits = ["banana" , "apple" , "mango" , "watermelon"]
+ console.log(fruits);
+ fruits.fill("kiwi") // change throughout the array
+ console.log(fruits);
+
+const age = [12 , 15  , 20 , 45 ]
+ const age2 = age.findLast(checkage) // findLast checks the function value and return last ele of the array 
+function checkage(age){
+    return age > 18 ;
+}
+console.log(age2);
+const age3 = age.slice(-4,-1) // negative index slicing
+console.log(age3);
