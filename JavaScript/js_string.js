@@ -33,7 +33,20 @@ console.log(name1.trimEnd());
 let match1 = name1.match("yu") // match the text of targetting string
 console.log(match1);
 
+let v1 = "rajorshi"
+let v2 = new String("rajorshi")
 
+console.log(v1==v2); // checks only value 
+console.log(v1===v2); // checks value and location
 
+let con1 = "pronoy"
+let con2 = "ayush"
+console.log(con1+con2); // concat the value 
+
+let text = "5642"
+let padval = text.padStart(9,"X") // XXXXX5642
+let padval2 = text.padEnd(9,"Y") // 5642YYYYY
+console.log(padval);
+console.log(padval2);
 
 
