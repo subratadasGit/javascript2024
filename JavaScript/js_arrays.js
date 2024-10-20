@@ -56,3 +56,16 @@ function checkage(age){
 console.log(age2);
 const age3 = age.slice(-4,-1) // negative index slicing
 console.log(age3);
+
+function is_array(input){
+    return Array.isArray(input);
+}
+console.log(is_array('w3resource'));
+console.log(is_array([1,2,4,0]))
+
+console.log(typeof([1,2]))
+
+// joins the array into string
+let a = [1,2,3]
+let b = a.join("+")
+console.log(b);
